@@ -12,7 +12,7 @@ This file will become your README and also the index of your documentation.
 
 Run the implementation to check if it works!!!
 
-```python
+```
 say_hello('Aditya')
 ```
 
